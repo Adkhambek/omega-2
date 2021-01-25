@@ -1,2 +1,4 @@
-# omega-2
+# omega-2 
+
+Live Preview: https://omega2nd.netlify.app/
  
